@@ -1,0 +1,7 @@
+rancher2_access_key = ""
+rancher2_secret_key = ""
+rancher2_server_url = "https://rancher.domain.tld/v3"
+github_token        = ""
+github_repo_name    = ""
+github_secret_name  = ""
+token_renews        = true
